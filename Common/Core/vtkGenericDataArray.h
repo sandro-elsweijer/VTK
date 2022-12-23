@@ -73,6 +73,7 @@
 #include "vtkSmartPointer.h"
 #include "vtkTypeTraits.h"
 
+#include <limits>
 #include <cassert>
 
 template <class DerivedT, class ValueTypeT>

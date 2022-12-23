@@ -23,6 +23,7 @@
 #include <iterator>
 #include <set>
 #include <vector>
+#include <limits>
 
 vtkStandardNewMacro(vtkColorTransferFunction);
 
